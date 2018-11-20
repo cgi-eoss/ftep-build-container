@@ -30,6 +30,7 @@ RUN yum update -y && yum install -y\
  make\
  openssh-server\
  openssl-devel\
+ nodejs\
  proj-devel\
  python-devel\
  redhat-rpm-config\
